@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashankbhosagi
-- 👀 I’m interested in Cyber-security, Web Development...
-- 🌱 I’m currently learning C programing and Data-structures and algorithm
+- 👀 I have interest in Cyber-security, Machine Learning...
+- 🌱 I’m currently learning C++ programing and Data-structures and algorithm
 
 <!---
 shashankbhosagi/shashankbhosagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
