@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashankbhosagi&theme=dark&show_icons=true)
   
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shashankbhosagi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shashankbhosagi&theme=react-dark)](https://github.com/shashankbhosagi/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shashankbhosagi&theme=dark&border_radius=10)](https://git.io/streak-stats)
 
