@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shashankbhosagi
 - 👀 I have interest in Cyber-security, Machine Learning...
-- 🌱 I’m currently learning C++ programing and Data-structures and algorithm
+- 🌱 I’m currently making website and doing some wierd prgramming stuff
+- ☠ I hate Java don't know why but I just hate it 😆🤮
 
 <!---
 shashankbhosagi/shashankbhosagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
