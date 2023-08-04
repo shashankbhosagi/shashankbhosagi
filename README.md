@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashankbhosagi
-- 👀 I have interest in Cyber-security, Machine Learning...
+- 👀 I have interest in Cyber-security and Low Level Programming...
 - 🌱 I’m currently making website and doing some wierd prgramming stuff
 - ☠ I hate Java don't know why but I just hate it 😆🤮
 
