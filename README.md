@@ -1,6 +1,3 @@
-# Ahoy there, matey! 🏴‍☠️
- 
-
 - 👋 Ahoy, me hearties! I be @shashankbhosagi, a scallywag with a passion for Cyber-security and Low Level Programming, sailing the vast seas of web development and exploring the mysteries of computers.
 
 - 🌱 Currently, I be creatin' websites and delvin' into peculiar computer sorcery, fightin' off Java like a true pirate! Arrr, it be a language I don't fancy!
