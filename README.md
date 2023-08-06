@@ -1,6 +1,13 @@
-# 💫 About Me:
+# Ahoy there, matey! 🏴‍☠️
+ 
 
-👋 Hi, I’m @shashankbhosagi<br>👀 I have interest in Cyber-security and Low Level Programming...<br>🌱 I’m currently making websites and doing some wierd computer stuff<br>💀 Java Hater<br>👾 In my free time I watch OnePiece <br>🔥 &nbsp;I'm also actively contributing in AssembleScript.<br>
+- 👋 Ahoy, me hearties! I be @shashankbhosagi, a scallywag with a passion for Cyber-security and Low Level Programming, sailing the vast seas of web development and exploring the mysteries of computers.
+
+- 🌱 Currently, I be creatin' websites and delvin' into peculiar computer sorcery, fightin' off Java like a true pirate! Arrr, it be a language I don't fancy!
+
+- 👾 When I'm not battlin' code, I immerse meself in the adventures of OnePiece, a tale fit for a crew of buccaneers.
+
+- 🔥 Yo-ho-ho! I also be actively contributin' to AssembleScript, sharin' me knowledge and skills with me fellow pirates of the code.
 
 ---
 
@@ -8,18 +15,22 @@
   <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
 </div>
 
+
 ---
 
 
 
-# 📊 GitHub Stats:
+#  GitHub Plunderings 🏴‍☠️
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=shashankbhosagi&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shashankbhosagi&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankbhosagi&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
-# 💻 Tech Stack:
+
+---
+
+## Arrr, Me Tech Booty! 💻🏴‍☠️
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -30,6 +41,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -45,19 +57,19 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🌐 Socials:
+
+---
+
+##  Me Socials 🏴‍☠️:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-bhosagi-8b9432206) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shashank_bhosagi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCDVQ1_KKVV3aMuiKihiFD5A)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=shashankbhosagi&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+---
 
 
-### 😂 Random Dev Meme
+### Piratey Memes of the Seven Seas 🏴‍☠️😂
 
-<img src="https://b1694534.smushcdn.com/1694534/wp-content/uploads/2021/06/3.jpeg?lossy=1&strip=1&webp=1" width="512px"/>
-
+<img src="https://external-preview.redd.it/GTEKr8jhHu4fb2c3gINmaDMhgFXvEmF8Xh0PcUgPCtU.jpg?auto=webp&s=1e74bf3e42fab335612f2f206e0acf1b9d23c6fe" width="512px"/>
 
 ---
 <!---
