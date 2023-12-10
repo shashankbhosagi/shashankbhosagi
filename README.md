@@ -65,3 +65,5 @@ spaceCoder.embarkOnJourney();
 [![Static Badge](https://img.shields.io/badge/twitter-gray)](https://twitter.com/ShashankBhosagi)
 [![Static Badge](https://img.shields.io/badge/email-orange)](shashankbhosagi0121@gmail.com)
 
+## Profile View Count
+![](https://profile-counter.glitch.me/shashankbhosagi/count.svg)
