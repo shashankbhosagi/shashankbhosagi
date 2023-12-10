@@ -1,75 +1,67 @@
-- 👋 Ahoy, me hearties! I be @shashankbhosagi, a scallywag with a passion for Cyber-security and Low Level Programming, sailing the vast seas of web development and exploring the mysteries of computers.
+# Hola! ![kirby](https://github.com/shashankbhosagi/shashankbhosagi/assets/78866224/bc848802-2c44-483e-808c-8e0b511d6d23)
+<p align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=19&duration=1500&pause=1000&color=F0F0F0&center=true&random=false&width=1000&height=100&lines=I+am+Shashank+Bhosagi+%F0%9F%91%BE;I+love+breaking+things+%F0%9F%94%A8;A+space+enthusiast+%F0%9F%9A%80%F0%9F%8C%8C%E2%9C%A8;Crafting+the+ultimate+OS+%F0%9F%92%BB)
 
-- 🌱 Currently, I be creatin' websites and delvin' into peculiar computer sorcery, fightin' off Java like a true pirate! Arrr, it be a language I don't fancy!
+</p>
 
-- 👾 When I'm not battlin' code, I immerse meself in the adventures of OnePiece, a tale fit for a crew of buccaneers.
+```mathematica
+      |               
+     / \  
+    | _ |             **************
+   || || |           *     YO!      *
+   || || |            **************            
+   || || |        O/
+   ||_||_|       /| 
+   |__|__|       / \
 
-- 🔥 Yo-ho-ho! I also be actively contributin' to AssembleScript, sharin' me knowledge and skills with me fellow pirates of the code.
+```
 
----
+## 🛸 Interstellar Toolkit
 
-<div align="center">
-  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"/>
-</div>
+```javascript
+class SpaceCoder {
+  constructor() {
+    this.skills = ["Rocket Science 🚀", "Code Crafting 💻", "Black Hole Navigation ⚫️"];
+    this.interests = ["Stargazing 🌌", "Interstellar Exploration 🌠", "Galactic Adventures 🛰️"];
+  }
 
+  embarkOnJourney() {
+    console.log("Embarking on an intergalactic coding odyssey! 🌌✨");
+  }
+}
 
----
+// Let's connect the dots and code the cosmos! 🌐
+const spaceCoder = new SpaceCoder();
+spaceCoder.embarkOnJourney();
 
+```
+## 💻 Tech Stack
 
+### Languages & Frameworks
 
-#  GitHub Plunderings 🏴‍☠️
-<div align="center">
+![C](https://img.shields.io/badge/c-%2300599C.svg?&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=shashankbhosagi&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shashankbhosagi&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankbhosagi&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+### Cloud & Deployment
 
----
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?&logo=Raspberry-Pi)
 
-## Arrr, Me Tech Booty! 💻🏴‍☠️
+### Creative Tools & Databases
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?&logo=blender&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?&logo=mysql&logoColor=white)
 
+### Robotics & IoT
 
----
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?&logo=ros&logoColor=white) ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?&logo=arduino&logoColor=white)
 
-##  Me Socials 🏴‍☠️:
+### API & Testing
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank-bhosagi-8b9432206) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shashank_bhosagi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCDVQ1_KKVV3aMuiKihiFD5A)
-
----
+![Postman](https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white)
 
 
-### Piratey Memes of the Seven Seas 🏴‍☠️😂
+## 🚀 Reach Out
 
-<img src="https://external-preview.redd.it/GTEKr8jhHu4fb2c3gINmaDMhgFXvEmF8Xh0PcUgPCtU.jpg?auto=webp&s=1e74bf3e42fab335612f2f206e0acf1b9d23c6fe" width="512px"/>
+[![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/shashank-bhosagi-8b9432206/)
+[![Static Badge](https://img.shields.io/badge/twitter-gray)](https://twitter.com/ShashankBhosagi)
+[![Static Badge](https://img.shields.io/badge/email-orange)](shashankbhosagi0121@gmail.com)
 
----
-<!---
-shashankbhosagi/shashankbhosagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
