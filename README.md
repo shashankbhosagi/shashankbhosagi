@@ -1,7 +1,7 @@
 # Hola! ![kirby](https://github.com/shashankbhosagi/shashankbhosagi/assets/78866224/bc848802-2c44-483e-808c-8e0b511d6d23)
 <p align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=19&duration=1500&pause=1000&color=F0F0F0&center=true&random=false&width=1000&height=100&lines=I+am+Shashank+Bhosagi+%F0%9F%91%BE;I+love+breaking+things+%F0%9F%94%A8;A+space+enthusiast+%F0%9F%9A%80%F0%9F%8C%8C%E2%9C%A8;Crafting+the+ultimate+OS+%F0%9F%92%BB)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=1500&pause=1000&color=F0F0F0&center=true&random=false&width=1000&height=100&lines=I+am+Shashank+Bhosagi+%F0%9F%91%BE;I+love+breaking+things+%F0%9F%94%A8;A+space+enthusiast+%F0%9F%9A%80%F0%9F%8C%8C%E2%9C%A8;Crafting+the+ultimate+OS+%F0%9F%92%BB)
 
 </p>
 
