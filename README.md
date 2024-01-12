@@ -63,7 +63,7 @@ spaceCoder.embarkOnJourney();
 
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/shashank-bhosagi-8b9432206/)
 [![Static Badge](https://img.shields.io/badge/twitter-gray)](https://twitter.com/ShashankBhosagi)
-[![Static Badge](https://img.shields.io/badge/email-orange)](shashankbhosagi0121@gmail.com)
+[![Static Badge](https://img.shields.io/badge/email-orange)](mailto:shashankbhosagi0121@gmail.com)
 
 ## Profile View Count
 ![](https://profile-counter.glitch.me/shashankbhosagi/count.svg)
