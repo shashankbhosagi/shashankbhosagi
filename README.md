@@ -1,72 +1,47 @@
-# Welcome to ShashankOS, Version 3.14 ![kirby](https://github.com/shashankbhosagi/shashankbhosagi/assets/78866224/bc848802-2c44-483e-808c-8e0b511d6d23)
+# Shashank Bhosagi
 
-```mathematica
+![kirby](https://github.com/shashankbhosagi/shashankbhosagi/assets/78866224/bc848802-2c44-483e-808c-8e0b511d6d23)
+
+```text
       |               
      / \  
     | _ |             ************************
-   || || |           *   добро пожаловать...  *
+   || || |           *   добро пожаловать... *
    || || |            ************************          
    || || |        O/
    ||_||_|       /| 
    |__|__|       / \
 ```
 
----
+Systems software developer.
 
-## **🖥️ Booting ShashankOS...**
+I spend most of my time exploring low-level computers, compilers, AI systems, embedded hardware, and whatever strange rabbit hole catches my attention next.
 
-```shell
-[    0.0000] Initializing system...
-[    0.0023] Loading user profile...
-[    0.0047] User: Shashank Bhosagi (alias: wolverin_3142)
-[    0.0075] Location: Pune, India
-[    0.0101] Contact Protocols: 
-             Email: shashankbhosagi0121@gmail.com
-             GitHub: https://github.com/shashankbhosagi
-             LinkedIn: https://www.linkedin.com/in/shashank-bhosagi-8b9432206/
-             Twitter: https://twitter.com/ShashankBhosagi
-[    0.0138] All protocols online.
-```
+### Currently
 
----
+* Building software for AI and accelerator systems
+* Learning more about compilers and computer architecture
+* Experimenting with electronics, FPGAs, and embedded Linux
+* Working toward getting HAM radio license
+* Looking up at space whenever possible
 
-### **🛠️ System Specifications:**
-```shell
-[    0.0156] Languages & Frameworks:
-             C, C++, JavaScript, TypeScript
-             React, Node.js
+### Side Quests
 
-[    0.0181] Databases:
-             MongoDB, MySQL
+* 3D printing
+* Robotics
+* Minecraft servers
+* Collecting large language models
+* Reading things I probably don't need to read
 
-[    0.0197] Cloud & Deployment:
-             AWS, Vercel, Linux, Raspberry Pi
+### Around Internet
 
-[    0.0214] Tools:
-             GitHub, Figma, Blender
-```
+* GitHub: github.com/shashankbhosagi
+* Blog: blog.trny.org
+* Website: trny.org
+* LinkedIn: linkedin.com/in/shashank-bhosagi-8b9432206
 
----
+> "Any sufficiently advanced technology is indistinguishable from magic."
+>
+> — Arthur C. Clarke
 
-### **🟢 System Logs:**
-```shell
-[    0.0239] Kernel: Linux 5.x.x
-[    0.0256] Uptime: 2+ years of coding experience
-[    0.0283] Processes Running: Code Crafting, System Design, Backend Development
-[    0.0310] Current Goals:
-             - Designing an OS from scratch
-             - Building a custom PC on a breadboard
-             - Developing a game
-             - Starting a technical blog
-[    0.0342] Updates will be applied as goals are completed.
-```
-
----
-
-### **👾 Profile View Count**
 ![](https://profile-counter.glitch.me/shashankbhosagi/count.svg)
-
-```mathematica
-[    0.0401] System Ready. Press ENTER to continue...
-```
-
