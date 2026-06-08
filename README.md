@@ -35,10 +35,9 @@ I spend most of my time exploring low-level computers, compilers, AI systems, em
 
 ### Around Internet
 
-* GitHub: github.com/shashankbhosagi
-* Blog: blog.trny.org
-* Website: trny.org
-* LinkedIn: linkedin.com/in/shashank-bhosagi-8b9432206
+* Blog: [blog.trny.org](https://blog.trny.org/)
+* Website: [trny.org](https://www.trny.org/)
+* LinkedIn: [linkedin.com/in/shashankbhosagi](https://www.linkedin.com/in/shashankbhosagi/)
 
 > "Any sufficiently advanced technology is indistinguishable from magic."
 >
